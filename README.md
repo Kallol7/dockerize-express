@@ -1,11 +1,7 @@
-
-
 ## Prerequisites
-
 - Node Version 22
 
-
-### 1. For Run This Applications
+### 1. To Run This Applications
 ```bash
 # install packages
 npm install 
@@ -16,7 +12,6 @@ npm check
 # For Run the application
 npm start
 ```
-
 
 ### Deployment Process
 1. **Cleanup**: Removes existing process if running
@@ -43,7 +38,4 @@ npm start
    /api # this will response a json
    ```
 
-2. **Default Port**: By Default this application will run on port 3000
-
-
-
+2. **Default Port**: By Default this application will run on port 5000
